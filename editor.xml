@@ -14,6 +14,9 @@
       </set>
     </option>
   </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="0" />
+  </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value=".vcs.code.vision" />
   </component>
