@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:us.mitene.development" />
         <option value="package:mine " />
         <option value="package:mine level:warn " />
         <option value="package:mine level:error " />

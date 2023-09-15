@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Kotlin">
+        <added pattern="androidx.compose.foundation.layout.padding(paddingValues)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
