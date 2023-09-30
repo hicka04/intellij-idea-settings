@@ -23,6 +23,17 @@
         <target value="Android 13.0" />
         <api value="androidversion:33:null:7:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-34131JEHN15014-tOerg6._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="Google Pixel 7a" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:7:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
